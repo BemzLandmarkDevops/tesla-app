@@ -4,5 +4,6 @@ deploy in the dev env
 deployment5 main
 deployment4
 deploy to staging
-echo goo job
-tested 
+echo good job
+tested
+deploy to tomcat
